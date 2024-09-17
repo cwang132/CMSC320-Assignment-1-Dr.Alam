@@ -12,3 +12,7 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: Merging preserves the entire history of the repository. Git merge combines the changes of one branch into another branch while git rebase moves changes from one branch to another branch.
 Git rebase will not preserve the merge history because it will move all of the changes to the tip of the main branch, creating a linear commit history. 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my python programming skills and also learn how to use data science tools. I have no experience in data science, so I am hoping to learn all that I can.
