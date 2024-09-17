@@ -7,3 +7,8 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science can be applied to the finance field. For example, it can be used to analyze and assess risk in any transaction.
 Data scientists frequently create predictive models to assess the risk of investment portfolios.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves the entire history of the repository. Git merge combines the changes of one branch into another branch while git rebase moves changes from one branch to another branch.
+Git rebase will not preserve the merge history because it will move all of the changes to the tip of the main branch, creating a linear commit history. 
