@@ -47,7 +47,7 @@ This should display the version of Git installed on your system.
    ```
 4. **Set remote for moving changes to the remote repository**
 
-   The remote serves as an alias for where your changes are uploaded pushes and pulls.
+   The remote serves as an alias for where your changes are uploaded pusheCs and pulls.
    ```bash 
    git remote set-url origin git@github.com:USERNAME/REPOSITORY_NAME.git
 
